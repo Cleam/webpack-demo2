@@ -1,2 +1,2 @@
-# webpack-demo
-webpack demo
+# webpack-demo2
+webpack-demo2
